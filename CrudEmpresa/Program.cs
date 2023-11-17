@@ -23,6 +23,7 @@ if (app.Environment.IsDevelopment())
 FluentMapper.Initialize(config =>
 {
     config.AddMap(new EmpresaMap());
+    config.AddMap(new TipoEmpresaMap());
     config.ForDommel();
 });
 

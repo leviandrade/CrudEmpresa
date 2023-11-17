@@ -48,5 +48,10 @@ namespace CrudEmpresa.Controllers
         {
             return await new EmpresaRepositorio().ObterPorId(id);
         }
+        [HttpGet("ListarComInclude")]
+        public async Task<List<Empresa>> ListarComInclude()
+        {
+            return await new EmpresaRepositorio().ListarComInclude();
+        }
     }
 }

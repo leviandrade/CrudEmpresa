@@ -10,6 +10,7 @@ namespace CrudEmpresa.Infra.Data.Mapeamentos
             ToTable("TB_EMPRESA");
             Map(x => x.Id).ToColumn("ID_EMPRESA").IsKey();
             Map(x => x.NmEmpresa).ToColumn("NM_EMPRESA");
+            Map(x => x.IdTipoEmpresa).ToColumn("ID_TIPO_EMPRESA");
         }
     }
 }
