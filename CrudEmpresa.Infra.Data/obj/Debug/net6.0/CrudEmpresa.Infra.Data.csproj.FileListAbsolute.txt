@@ -1,0 +1,15 @@
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\bin\Debug\net6.0\CrudEmpresa.Infra.Data.deps.json
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\bin\Debug\net6.0\CrudEmpresa.Infra.Data.dll
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\bin\Debug\net6.0\CrudEmpresa.Infra.Data.pdb
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\bin\Debug\net6.0\CrudEmpresa.Dominio.dll
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\bin\Debug\net6.0\CrudEmpresa.Dominio.pdb
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\CrudEmpresa.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\CrudEmpresa.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\CrudEmpresa.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\CrudEmpresa.Infra.Data.AssemblyInfo.cs
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\CrudEmpresa.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\CrudEmpresa.Infra.Data.csproj.CopyComplete
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\CrudEmpresa.Infra.Data.dll
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\refint\CrudEmpresa.Infra.Data.dll
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\CrudEmpresa.Infra.Data.pdb
+C:\Users\Levi\source\repos\CrudEmpresa\CrudEmpresa.Infra.Data\obj\Debug\net6.0\ref\CrudEmpresa.Infra.Data.dll
